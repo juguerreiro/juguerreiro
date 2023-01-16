@@ -4,8 +4,8 @@
 
 <div align="center">
   <a "https://github.com/juguerreiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juguerreiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juguerreiro&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.-sigma-five.vercel.app/api?username=juguerreiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.-sigma-five.vercel.app/api/top-langs/?username=juguerreiro&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <h4 align="left">My skills:</h4>
