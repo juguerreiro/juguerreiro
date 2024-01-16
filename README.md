@@ -32,8 +32,4 @@
   
 <h4 align="left">I hope to see you soon</h4>
 
-<div align="left">
-<img height="150" width="170"src="https://github.com/juguerreiro/images_Creations/blob/master/images_creation/images/giff%20pikachu.gif" alt="Pikachu and evee waiting for you">
-</div>
-
 
