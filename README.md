@@ -27,9 +27,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julia-guerreiro/)
   
-<h4 align="left">Summary:</h4>  
-<p> I'm civil engineer with the ability to learn quickly. I'm a Full-stack developer just graduated from Le Wagon(batch #822). I learned Ruby, Ruby on Rails, JavaScript(front-end), HTML, CSS, Bootstrap, SQL, Postgresql, SASS, git, GitHub, Heroku, Trello and Figma there. As soon as the bootcamp ended, I was invited by the manager to be part of the Le Wagon teaching team.</p>
-  
 <h4 align="left">I hope to see you soon</h4>
 
 
